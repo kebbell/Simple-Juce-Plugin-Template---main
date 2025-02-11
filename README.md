@@ -12,3 +12,4 @@ Will aim for sundog
 4. Add a gitignore so people don't accidentally commit their build folder
 5. Add a changelog so people can see what's changed
 6. Add a license so people know what they can do with the plugin
+
